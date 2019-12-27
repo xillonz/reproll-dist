@@ -1,1 +1,1 @@
-{"short_name":"RepRoll","name":"RepRoll","icons":[{"src":"icon-512.57bdcc5c.png","type":"image/png","sizes":"512x512"}],"start_url":"/?source=pwa","background_color":"#333","display":"standalone","scope":"/","theme_color":"#333"}
+{"short_name":"RepRoll","name":"RepRoll","icons":[{"src":"icon-512.57bdcc5c.png","type":"image/png","sizes":"512x512"}],"start_url":"https://reproll.com","background_color":"#333","display":"standalone","scope":"/","theme_color":"#333"}
